@@ -71,7 +71,7 @@ The ML layer uses scikit-learn's `IsolationForest` to detect resources that are 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cloudsentinel.git
+git clone https://github.com/Sam12696/Cloudsentinel.git
 cd cloudsentinel
 ```
 
